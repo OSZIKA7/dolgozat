@@ -1,0 +1,4 @@
+Microsoft Management Console
+idő beállítás, nyelv kiválasztása, dátum beállítása,eszközkezelő
+
+Tárhelynövelés, Ha elfogy a RAM tárhely akk ebből használ az operációs rendszer
