@@ -1,0 +1,8 @@
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+
+1.Mit jelent a <!DOCTYPE html> elem?
+-Az oldal kódólását
+2.Hogyan definiáljuk a belső stílust a head elemben?
+<style="background-color=....";>
+3.Emmet utasítás átírása: p>({példa: }+span{ez itt egy példa}+{ az Emmetről.})
+<p>Példa:<span Ez itt egy példa /span></p>
